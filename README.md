@@ -3,6 +3,8 @@
 
 Sentence Generator build using GPT-3 and Gradio which is used to generate answer based on the given sentence.
 
+![Screenshot 2024-01-03 233230](https://github.com/Harikesavan77/Sentence-Generator/assets/120177130/24a0798b-5dcd-45f4-b247-1479673a642c)
+
 
 ## Acknowledgements
 
