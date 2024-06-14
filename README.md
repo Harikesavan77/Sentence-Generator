@@ -1,7 +1,7 @@
 
 # Sentence Generator
 
-Sentence Generator build using GPT-3 and Gradio which is used to generate answer based on the given sentence.
+Build a sentence generator using GPT-3 and Gradio by first creating a function to generate text with GPT-3 based on an input sentence. Integrate this function with a Gradio interface to accept user input and display generated sentences. Deploy the Gradio app to allow users to enter sentences and receive GPT-3 generated responses in real-time.
 
 ![Screenshot 2024-01-03 233230](https://github.com/Harikesavan77/Sentence-Generator/assets/120177130/24a0798b-5dcd-45f4-b247-1479673a642c)
 
